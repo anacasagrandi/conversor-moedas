@@ -1,20 +1,21 @@
 /* Define o estilo para o contêiner principal */
+
 .converter {
     display: flex; /* Utiliza o layout flexbox */
     flex-direction: column; /* Alinha os itens em coluna */
     align-items: center; /* Centraliza os itens horizontalmente */
-    padding: 2rem; /* Adiciona um espaçamento interno de 2rem */
+    padding: 1rem; /* Adiciona um espaçamento interno de 2rem */
     border-radius: 10px; /* Adiciona bordas arredondadas com raio de 10px */
-    width: 400px; /* Define a largura fixa de 400px */
+    width: 360px; /* Define a largura fixa de 400px */
     margin: 2rem auto; /* Centraliza horizontalmente o contêiner */
     background-color: #f8f9fa; /* Define a cor de fundo */
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Adiciona uma sombra suave */
+    box-shadow: 0 4px 12px rgba(1, 0, 0, 0.1); /* Adiciona uma sombra suave */
    }
    
    /* Define o estilo para o título */
    .converter h2 {
     color: #343a40; /* Define a cor do texto */
-    font-size: 1.8rem; /* Define o tamanho da fonte */
+    font-size: 1.5rem; /* Define o tamanho da fonte */
     margin-bottom: 2rem; /* Adiciona uma margem inferior de 2rem */
    }
    
